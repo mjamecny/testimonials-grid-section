@@ -3,7 +3,7 @@ module.exports = {
   content: ["*"],
   theme: {
     fontFamily: {
-      sans: ["Barlow Semi Condensed", "sans-serif"],
+      sans: ["'Barlow Semi Condensed'"],
     },
     spacing: {
       0.2: "2px",
