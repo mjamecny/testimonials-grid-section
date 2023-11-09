@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/testimonials-grid-section-with-tailwindcss-MhDS1ug45s)
 - Live Site URL: [Netlify](https://fm-challenge-testimonials-grid-sec.netlify.app)
 
 ## My process
